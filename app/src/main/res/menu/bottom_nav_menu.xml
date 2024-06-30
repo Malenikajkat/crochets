@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_schemes"
+        android:icon="@drawable/schemes"
+        android:title="@string/title_schemes" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/video"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/navigation_ideas"
+        android:icon="@drawable/ideas"
+        android:title="@string/title_ideas" />
+
+</menu>
