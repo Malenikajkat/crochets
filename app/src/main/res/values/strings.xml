@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">crochet</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_schemes">Схемы</string>
+    <string name="title_video">Видео</string>
+    <string name="title_ideas">Идеи</string>
+    <string name="title_settings">Настройки</string>
+</resources>
